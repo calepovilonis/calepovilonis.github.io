@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("Helvetica-Neue-Light.ttf");
+}
+
+body {
+  font-family: HelveticaNeue;
+}
+
+#name {
+    font-size: 300%;
+    margin-left: 5%;
+}
+
+#content {
+    margin-left: 5%;
+    font-size: 130%;
+}
+
+a, a:visited, a:active {
+  color: inherit;
+}
+
+a:hover {
+  color: blue;
+}
+
+#click {
+  margin-left: 60%;
+}
+
+#resume {
+  height: 65%;
+  width: 65%;
+  margin-left: 5%;
+}
+
+#headerbar {
+  margin-left: 5%;
+  margin-right: 25%;
+  margin-top: -.5%;
+  padding: 0px;
+}
+
+hr {
+    height: 1px;
+    border: 0px;
+    padding: 0px;
+    margin: 0px;
+    border-top: 1px solid #ccc;
+}
